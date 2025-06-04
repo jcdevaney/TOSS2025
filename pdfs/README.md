@@ -1,4 +1,4 @@
-Additional Resources:
+# Additional Resources
 
 Sonic Visualiser: A Brief Reference 
 https://www.sonicvisualiser.org/doc/reference/1.7.2/en/
